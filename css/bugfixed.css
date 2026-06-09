@@ -1,0 +1,18 @@
+@media only screen and (min-width: 996px) {
+    .ml_banner:hover .bannerbtnleft {
+        left: 65px !important;
+        opacity: 1 !important;
+    }
+    .ml_banner:hover .bannerbtnright {
+        right: 65px !important;
+        opacity: 1 !important;
+    }
+}
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    overflow-x: hidden;
+}

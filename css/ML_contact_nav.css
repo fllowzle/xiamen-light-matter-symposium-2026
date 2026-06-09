@@ -1,0 +1,102 @@
+@media only screen and (min-width: 996px) {
+    .ml_mbbot {
+        display: none;
+    }
+    .ml_sidebar {
+        position: fixed;
+        bottom: 50%;
+        right: 0px;
+        z-index: 99999;
+        /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    }
+    .ml_sidebar ul li {
+        width: 65px;
+        height: 65px;
+        background-color: var(--main-color);
+        text-align: center;
+        color: #fff;
+        border-bottom: 1px solid #fff;
+        cursor: pointer;
+        position: relative;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .ml_sidebar ul li i {
+        font-size: 30px !important;
+    }
+    .ml_sidebar ul li span {
+        font-size: 12px !important;
+    }
+    .ml_sidebar_pos {
+        transition: all ease 0.4s;
+        height: 65px;
+        width: 200px;
+        position: absolute;
+        background-color: var(--main-color);
+        color: #fff;
+        right: 100%;
+        top: 0;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        transform: rotateX(90deg);
+        border-bottom: 1px solid var(--main-color);
+    }
+    .ml_sidebar_pos_code {
+        width: 150px !important;
+        height: 150px !important;
+        padding: 10px;
+    }
+    .ml_sidebar_pos_code img {
+        width: 100%;
+    }
+    .ml_sidebar ul li:hover .ml_sidebar_pos {
+        transform: rotateX(0deg);
+    }
+    .backtotop {
+        border-bottom: none !important;
+        transition: var(--main-transition);
+        opacity: 0;
+        visibility: hidden;
+    }
+    .ml_sidebar_show1 {
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+}
+
+@media only screen and (max-width: 996px) {
+    .ml_sidebar {
+        display: none;
+    }
+    .ml_mbbot {
+        z-index: 99999;
+        position: fixed;
+        bottom: 0;
+        display: flex;
+        justify-content: space-between;
+        left: 0;
+        background-color: var(--main-color);
+        width: 100%;
+        height: 60px;
+    }
+    .ml_mbbot li {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        border-right: 1px solid #fff;
+        align-items: center;
+    }
+    .ml_mbbot li i {
+        font-size: 20px !important;
+        color: #fff;
+    }
+    .ml_mbbot li p {
+        font-size: 16px;
+        color: #fff;
+    }
+}
