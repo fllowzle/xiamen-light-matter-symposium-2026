@@ -1,0 +1,18 @@
+﻿# wrangler.toml
+name = "hotel-booking"
+main = "src/worker.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hotel-db"
+database_id = "581856c9-fc3b-4341-94ba-48983a3c61f6"
+
+[env.production]
+workers_dev = false
+route = "hotel.xmu-lmi.xyz/*"
+
+[[env.production.d1_databases]]
+binding = "DB"
+database_name = "hotel-db"
+database_id = "581856c9-fc3b-4341-94ba-48983a3c61f6"

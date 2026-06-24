@@ -1,31 +1,27 @@
-<h2>Previous Conferences</h2>
+﻿<h2>Previous Conferences</h2>
 
-<p style="font-size:18px;font-weight:bold;margin-top:20px;">4th Xiamen Symposium on Light–Matter Interactions</p>
-<p style="font-size:16px;color:#122E66;margin-bottom:5px;"><a href="https://photonics.xmu.edu.cn/index.htm" target="_blank">Visit Conference Website →</a></p>
-<p><strong>Date:</strong> December 28–30, 2025</p>
-<p><strong>Venue:</strong> Xiamen Portman Seven Star Bay Hotel, Xiamen, China</p>
+<p style="font-size:18px;font-weight:bold;margin-top:20px;"><a href="https://photonics.xmu.edu.cn/dyjsmgwzxhzyxsyth.htm" target="_blank" style="color:#122E66;text-decoration:none;">1st Xiamen Symposium on Light–Matter Interactions</a></p>
+<p><strong>Date:</strong> July 17–18, 2021</p>
+<p><strong>Venue:</strong> School of Physics and Technology, Xiamen University (Haiyun Campus), Xiamen, China</p>
 <p><strong>Hosted by:</strong> Xiamen University, Fujian University Alliance of Physics Discipline</p>
 
 <br>
 
-<p style="font-size:18px;font-weight:bold;margin-top:20px;">3rd Xiamen Symposium on Light–Matter Interactions</p>
-<p style="font-size:16px;color:#122E66;margin-bottom:5px;"><a href="https://photonics.xmu.edu.cn/dsjsmgwzxhzyxsyth.htm" target="_blank">Visit Conference Website →</a></p>
-<p><strong>Date:</strong> December 23–26, 2024</p>
-<p><strong>Venue:</strong> Xiamen Portman Seven Star Bay Hotel, Xiamen, China</p>
-<p><strong>Hosted by:</strong> Xiamen University, Fujian University Alliance of Physics Discipline</p>
-
-<br>
-
-<p style="font-size:18px;font-weight:bold;margin-top:20px;">2nd Xiamen Symposium on Light–Matter Interactions</p>
-<p style="font-size:16px;color:#122E66;margin-bottom:5px;"><a href="https://photonics.xmu.edu.cn/dejsmgwzxhzyxsyth.htm" target="_blank">Visit Conference Website →</a></p>
+<p style="font-size:18px;font-weight:bold;margin-top:20px;"><a href="https://photonics.xmu.edu.cn/dejsmgwzxhzyxsyth.htm" target="_blank" style="color:#122E66;text-decoration:none;">2nd Xiamen Symposium on Light–Matter Interactions</a></p>
 <p><strong>Date:</strong> December 26–29, 2023</p>
 <p><strong>Venue:</strong> Xiamen Wuyuanwan Hotel, Xiamen, China</p>
 <p><strong>Hosted by:</strong> Xiamen University, Fujian University Alliance of Physics Discipline</p>
 
 <br>
 
-<p style="font-size:18px;font-weight:bold;margin-top:20px;">1st Xiamen Symposium on Light–Matter Interactions</p>
-<p style="font-size:16px;color:#122E66;margin-bottom:5px;"><a href="https://photonics.xmu.edu.cn/dyjsmgwzxhzyxsyth.htm" target="_blank">Visit Conference Website →</a></p>
-<p><strong>Date:</strong> July 17–18, 2021</p>
-<p><strong>Venue:</strong> School of Physics and Technology, Xiamen University (Haiyun Campus), Xiamen, China</p>
+<p style="font-size:18px;font-weight:bold;margin-top:20px;"><a href="https://photonics.xmu.edu.cn/dsjsmgwzxhzyxsyth.htm" target="_blank" style="color:#122E66;text-decoration:none;">3rd Xiamen Symposium on Light–Matter Interactions</a></p>
+<p><strong>Date:</strong> December 23–26, 2024</p>
+<p><strong>Venue:</strong> Xiamen Portman Seven Star Bay Hotel, Xiamen, China</p>
+<p><strong>Hosted by:</strong> Xiamen University, Fujian University Alliance of Physics Discipline</p>
+
+<br>
+
+<p style="font-size:18px;font-weight:bold;margin-top:20px;"><a href="https://photonics.xmu.edu.cn/dsjsmgwzxhzyxsyth1.htm" target="_blank" style="color:#122E66;text-decoration:none;">4th Xiamen Symposium on Light–Matter Interactions</a></p>
+<p><strong>Date:</strong> December 28–30, 2025</p>
+<p><strong>Venue:</strong> Xiamen Portman Seven Star Bay Hotel, Xiamen, China</p>
 <p><strong>Hosted by:</strong> Xiamen University, Fujian University Alliance of Physics Discipline</p>
