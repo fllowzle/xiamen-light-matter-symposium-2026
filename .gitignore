@@ -1,4 +1,4 @@
-﻿# Build artifacts
+# Build artifacts
 __page_data.json
 
 # Python cache
@@ -8,3 +8,16 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Cloudflare Worker cache
+cloudflare-worker/.wrangler/
+
+# Temp files
+*.rar
+*.sql
+reset*.sql
+add*.sql
+hotel-api.php
+hotel-proxy.jsp
+_acc_js.txt
+_build.py
